@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills
 - Languages: C, C++, JavaScript, Python
-- Web: HTML, CSS, Node.js, Express.js
+- Web: HTML, CSS, React, Node.js, Express.js
 - Database: MongoDB
 
 ## 📚 Currently Learning
