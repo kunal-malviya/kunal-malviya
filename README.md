@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Kunal
 
-<!--
-**kunal-malviya/kunal-malviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science Student passionate about Software Development
+- 💻 Learning Data Structures & Algorithms in C++
+- 🌐 Exploring MERN Stack Development
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: C, C++, JavaScript, Python
+- Web: HTML, CSS, Node.js, Express.js
+- Database: MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- DSA (Problem Solving)
+- Backend Development
+
+## 🔗 Connect with me
+- GitHub: https://github.com/your-username
